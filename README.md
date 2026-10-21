@@ -12,3 +12,8 @@ I am a student at upgrade school of tech, currently learning git and gitHub.
 - LMS : one line about it
 - CMS : one line about it
 
+## Social Links
+- GitHub : https://github.com/
+- LinkedIn : https://Linkdin.com
+
+
